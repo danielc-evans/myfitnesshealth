@@ -15,4 +15,4 @@ The program is executed through the controller.
 
 Also attached is a zip folder with the code segregated into a Model-View-Controller structure. 
 
-Note that in Python it is impossible to run the code within MVC folders hence there is another copy of the code outside of a zip or folder for execution.
+Note that in Python it is impossible to run the code within MVC folders, therefore there is another copy of the code not in a zip or folder for execution.
