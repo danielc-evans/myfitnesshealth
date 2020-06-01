@@ -7,5 +7,5 @@
  100263220 Ben Misiura 
  100249680 Patrick Boyd
 
-All files uploaded. Upon download all files can be run using Python 3.8.2 and PYQT5
+All files uploaded. Upon download all files can be run using Python 3.8.2 and PYQT5.
 The program is executed through the controller
