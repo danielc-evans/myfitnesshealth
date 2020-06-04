@@ -9,10 +9,10 @@
  
  Execution Instructions: 
 
-All files uploaded. Upon download all files can be run using Python 3.8.2 and PYQT5.
+All files uploaded. Upon download, all files can be run using Python 3.8.2 and PYQT5.
 
 The program is executed through the controller.
 
 Also attached is a zip folder with the code segregated into a Model-View-Controller structure. 
 
-Note that in Python it is impossible to run the code within MVC folders, therefore there is another copy of the code not in a zip or folder for execution.
+Note that in Python it is impossible to run the code in a MVC folder stucture, therefore we have provided loose copies of the python files in this repository that can be used for execution. 
